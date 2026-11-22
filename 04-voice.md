@@ -8,7 +8,7 @@
 
 > 读一下 GitHub 上 kgmkm/muse-irodori-voice 那个 skill，先做安全确认，再把 Irodori-TTS v4.1-Small-MF 装到你的 VM 里。声音用 caption 来设计，把参考音频的潜在表现固定下来。装好了用那个声音读一段短的自我介绍，给我一个 MP3。
 
-作者自己当初说得更随意，大概就是“我要 Irodori，装到 VM 里，找个好用的 skill，努力一把”。上面那段是整理过的版本。
+我自己当初说得更随意，大概就是“我要 Irodori，装到 VM 里，找个好用的 skill，努力一把”。上面那段是整理过的版本。
 
 ## 31. 用 Irodori 做立体声双耳 ASMR
 
